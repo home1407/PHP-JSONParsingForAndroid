@@ -1,11 +1,13 @@
 # PHP-JSONParsingForAndroid
 
-이 프로젝트는 ANDROID의 AsynkTask 클래스를 이용해 PHP파일의 JSON Object를 받아온 후 ListView에 출력을 하는 코드로 구성되어 있습니다.
+이 프로젝트는 ANDROID의 AsynkTask 클래스를 이용해 PHP파일의 JSON Object를 받아온 후 ListView에 출력을 하는 코드로 구성되어 있습니다.<BR>
 This project consists of code that outputs JSON objects from PHP files to ListView using the AsyncTask class of ANDROID.
-
-다음 코드는 PHP파일의 코드입니다.
+<br>
+<br>
+다음 코드는 PHP파일의 코드입니다.<br>
 The following is the code for the PHP file.
 
+<br>
 
 <?php
    
