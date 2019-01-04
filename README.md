@@ -9,8 +9,6 @@ The following is the code for the PHP file.
 
 <br>
 
-<?php
-   
     if($_SERVER["REQUEST_METHOD"] == 'GET'){
     
         $result = array();
@@ -27,4 +25,4 @@ The following is the code for the PHP file.
         //$result = json_encode($menuData, JSON_UNESCAPED_UNICODE);
         echo json_encode(array("result"=>$result), JSON_UNESCAPED_UNICODE);
     }
-?>
+
